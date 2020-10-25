@@ -1,0 +1,104 @@
+Jon Snow;Stark;Le dicen que no sabe nada;P
+Daenerys Targaryen;Targaryen;Se convierte en la madre de dragones;P
+Daenerys Targaryen;Targaryen;Viaja a Poniente;F
+Jon Snow;Stark;¡Era por abajo Pacacio!;F
+Tyrion Lannister;Lannister;Mata a su propio padre;F
+Jon Snow;Stark;Se une a la Guardia de la Noche;P
+Samwell Tarly;Tarly;Viaja a la Ciudadela;P
+Robert Baratheon;Baratheon;Es embestido por un jaba;P
+Jaime Lannister;Lannister;Empuja a Bran de la torre;P
+Cersei Lannister;Lannister;Se casa con Robert Baratheon;P
+Meryn Trant;Trant;Mata a Ned Stark;P
+Hodor;Stark;Salva a Bran de los Caminantes Blancos;F
+Jon Snow;Stark;Le dicen que no sabe nada 1;P
+Jon Snow;Stark;Le dicen que no sabe nada 2;P
+Jon Snow;Stark;Le dicen que no sabe nada 3;P
+Jon Snow;Stark;Le dicen que no sabe nada 4;P
+Jon Snow;Stark;Le dicen que no sabe nada 5;P
+Jon Snow;Stark;Le dicen que no sabe nada 6;P
+Jon Snow;Stark;Le dicen que no sabe nada 7;P
+Jon Snow;Stark;Le dicen que no sabe nada 8;P
+Jon Snow;Stark;Le dicen que no sabe nada 9;P
+Jon Snow;Stark;Le dicen que no sabe nada 10;P
+Samwell Tarly;Tarly;Viaja a la Ciudadela 1;P
+Samwell Tarly;Tarly;Viaja a la Ciudadela 2;P
+Samwell Tarly;Tarly;Viaja a la Ciudadela 3;P
+Samwell Tarly;Tarly;Viaja a la Ciudadela 4;P
+Samwell Tarly;Tarly;Viaja a la Ciudadela 5;P
+Samwell Tarly;Tarly;Viaja a la Ciudadela 6;P
+Samwell Tarly;Tarly;Viaja a la Ciudadela 7;P
+Samwell Tarly;Tarly;Viaja a la Ciudadela 8;P
+Samwell Tarly;Tarly;Viaja a la Ciudadela 9;P
+Samwell Tarly;Tarly;Viaja a la Ciudadela 10;P
+Daenerys Targaryen;Targaryen;Se convierte en la madre de dragones 1;P
+Daenerys Targaryen;Targaryen;Se convierte en la madre de dragones 2;P
+Daenerys Targaryen;Targaryen;Se convierte en la madre de dragones 3;P
+Daenerys Targaryen;Targaryen;Se convierte en la madre de dragones 4;P
+Daenerys Targaryen;Targaryen;Se convierte en la madre de dragones 5;P
+Daenerys Targaryen;Targaryen;Se convierte en la madre de dragones 6;P
+Daenerys Targaryen;Targaryen;Se convierte en la madre de dragones 7;P
+Daenerys Targaryen;Targaryen;Se convierte en la madre de dragones 8;P
+Daenerys Targaryen;Targaryen;Se convierte en la madre de dragones 9;P
+Daenerys Targaryen;Targaryen;Se convierte en la madre de dragones 10;P
+Tyrion Lannister;Lannister;Mata a su propio padre 1;F
+Tyrion Lannister;Lannister;Mata a su propio padre 2;F
+Tyrion Lannister;Lannister;Mata a su propio padre 3;F
+Tyrion Lannister;Lannister;Mata a su propio padre 4;F
+Tyrion Lannister;Lannister;Mata a su propio padre 5;F
+Tyrion Lannister;Lannister;Mata a su propio padre 6;F
+Tyrion Lannister;Lannister;Mata a su propio padre 7;F
+Tyrion Lannister;Lannister;Mata a su propio padre 8;F
+Tyrion Lannister;Lannister;Mata a su propio padre 9;F
+Tyrion Lannister;Lannister;Mata a su propio padre 10;F
+Daenerys Targaryen;Targaryen;Viaja a Poniente 1;F
+Daenerys Targaryen;Targaryen;Viaja a Poniente 2;F
+Daenerys Targaryen;Targaryen;Viaja a Poniente 3;F
+Daenerys Targaryen;Targaryen;Viaja a Poniente 4;F
+Daenerys Targaryen;Targaryen;Viaja a Poniente 5;F
+Daenerys Targaryen;Targaryen;Viaja a Poniente 6;F
+Daenerys Targaryen;Targaryen;Viaja a Poniente 7;F
+Daenerys Targaryen;Targaryen;Viaja a Poniente 8;F
+Daenerys Targaryen;Targaryen;Viaja a Poniente 9;F
+Daenerys Targaryen;Targaryen;Viaja a Poniente 10;F
+Jaime Lannister;Lannister;Empuja a Bran de la torre 1;P
+Jaime Lannister;Lannister;Empuja a Bran de la torre 2;P
+Jaime Lannister;Lannister;Empuja a Bran de la torre 3;P
+Jaime Lannister;Lannister;Empuja a Bran de la torre 4;P
+Jaime Lannister;Lannister;Empuja a Bran de la torre 5;P
+Jaime Lannister;Lannister;Empuja a Bran de la torre 6;P
+Jaime Lannister;Lannister;Empuja a Bran de la torre 7;P
+Jaime Lannister;Lannister;Empuja a Bran de la torre 8;P
+Jaime Lannister;Lannister;Empuja a Bran de la torre 9;P
+Jaime Lannister;Lannister;Empuja a Bran de la torre 10;P
+Hodor;Stark;Salva a Bran de los Caminantes Blancos 1;F
+Hodor;Stark;Salva a Bran de los Caminantes Blancos 2;F
+Hodor;Stark;Salva a Bran de los Caminantes Blancos 3;F
+Hodor;Stark;Salva a Bran de los Caminantes Blancos 4;F
+Hodor;Stark;Salva a Bran de los Caminantes Blancos 5;F
+Hodor;Stark;Salva a Bran de los Caminantes Blancos 6;F
+Hodor;Stark;Salva a Bran de los Caminantes Blancos 7;F
+Hodor;Stark;Salva a Bran de los Caminantes Blancos 8;F
+Hodor;Stark;Salva a Bran de los Caminantes Blancos 9;F
+Hodor;Stark;Salva a Bran de los Caminantes Blancos 10;F
+Meryn Trant;Trant;Mata a Ned Stark 1;P
+Meryn Trant;Trant;Mata a Ned Stark 2;P
+Meryn Trant;Trant;Mata a Ned Stark 3;P
+Meryn Trant;Trant;Mata a Ned Stark 4;P
+Meryn Trant;Trant;Mata a Ned Stark 5;P
+Meryn Trant;Trant;Mata a Ned Stark 6;P
+Meryn Trant;Trant;Mata a Ned Stark 7;P
+Meryn Trant;Trant;Mata a Ned Stark 8;P
+Meryn Trant;Trant;Mata a Ned Stark 9;P
+Meryn Trant;Trant;Mata a Ned Stark 10;P
+Oberyn Martell;Martell;Pierde la lucha contra La Montaa 1;F
+Oberyn Martell;Martell;Pierde la lucha contra La Montaa 2;F
+Oberyn Martell;Martell;Pierde la lucha contra La Montaa 3;F
+Oberyn Martell;Martell;Pierde la lucha contra La Montaa 4;F
+Oberyn Martell;Martell;Pierde la lucha contra La Montaa 5;F
+Oberyn Martell;Martell;Pierde la lucha contra La Montaa 6;F
+Oberyn Martell;Martell;Pierde la lucha contra La Montaa 7;F
+Oberyn Martell;Martell;Pierde la lucha contra La Montaa 8;F
+Oberyn Martell;Martell;Pierde la lucha contra La Montaa 9;F
+Oberyn Martell;Martell;Pierde la lucha contra La Montaa 10;F
+Oberyn Martell;Martell;Pierde la lucha contra La Montaa;F
+
